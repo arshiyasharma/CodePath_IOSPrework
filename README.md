@@ -2,7 +2,7 @@
 
 Submitted by: Arshiya Sharma
 
-SheaProj1 is an app that changes background color when button is pressed.
+SheaProj1 is an app that changes screen color when a button is pressed. This app is for CodePath iOS Prework.
 
 Time spent: 3 hours spent in total
 
@@ -43,6 +43,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 * Screen sharing and voice channels
 * Integration with bots and third-party apps
 
+### App Idea: StudyVerse
+
+**StudyVerse** is a collaborative productivity platform tailored for students working on independent goals but within a shared digital space. Imagine a mix of Pomodoro timers, task-sharing boards, and casual chat all in one environment. Users can create “StudyPods” where they set individual tasks, see each other's real-time progress (via light indicators or emoji status), and hop into voice/video rooms when needed. Key features would include customizable productivity widgets, ambient background sounds, time-tracking reports, and encouragement nudges from AI or peers.
 
 
 ## Notes
