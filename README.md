@@ -15,9 +15,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+https://github.com/user-attachments/assets/e401a518-9649-441f-bf0f-2d4566461e2e
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+### Supporting Screenshots
+
+<img width="1512" alt="Screenshot 2025-05-06 at 9 14 04 PM" src="https://github.com/user-attachments/assets/a28df1f5-8ca6-4ecd-abff-6868705dcf54" />
+<img width="1512" alt="Screenshot 2025-05-06 at 9 13 35 PM" src="https://github.com/user-attachments/assets/947c888a-6186-4d04-bc83-b40930e40acb" />
+<img width="1512" alt="Screenshot 2025-05-06 at 9 14 31 PM" src="https://github.com/user-attachments/assets/08e49d6d-d6bb-41ff-85ea-58238dd49226" />
 
 ## App Brainstorming (Step 4)
 
@@ -54,7 +58,7 @@ Describe any challenges encountered while building the app: None.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Arshiya Sharma]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
